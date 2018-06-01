@@ -1,0 +1,4 @@
+name: ProjectWithScoreboards
+version: 1.0
+main: me.grantis.mysbproject.MySbProject
+description: I hope it works.

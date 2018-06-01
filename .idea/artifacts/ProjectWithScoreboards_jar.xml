@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjectWithScoreboards:jar">
+    <output-path>$PROJECT_DIR$/../../Java Bukkit/development/plugins</output-path>
+    <root id="archive" name="ProjectWithScoreboards.jar">
+      <element id="module-output" name="ProjectWithScoreboards" />
+    </root>
+  </artifact>
+</component>
